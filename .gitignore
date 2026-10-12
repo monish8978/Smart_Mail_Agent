@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+config.js        # ⚠️ sirf tab jab isme secrets ho
+.env
